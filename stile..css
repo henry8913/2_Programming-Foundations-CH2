@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: yellow;
+    position: sticky;
+    width: 100%;
+}
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 2vh;
+    text-align: end;
+}
+
+article {
+    color: red;
+}
+
+main {
+    padding: 2vh;
+}
+
+h3 {
+    color: blue;
+}
